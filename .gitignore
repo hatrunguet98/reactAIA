@@ -1,0 +1,9 @@
+.idea/
+dist/
+node_modules/
+target/
+db.json
+.cache/
+package-lock.json
+debug.log
+yarn.lock
